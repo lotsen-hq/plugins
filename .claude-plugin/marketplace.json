@@ -1,0 +1,15 @@
+{
+  "name": "lotsen-hq",
+  "owner": { "name": "Alphaleonis" },
+  "plugins": [
+    {
+      "name": "lotsen",
+      "description": "Guided tours of Azure DevOps pull requests in the lotsen web UI",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alphaleonis/lotsen.git",
+        "path": "plugin"
+      }
+    }
+  ]
+}
