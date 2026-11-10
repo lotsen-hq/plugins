@@ -11,7 +11,7 @@
         "source": "git-subdir",
         "url": "https://github.com/lotsen-hq/lotsen.git",
         "path": "plugin",
-        "ref": "v0.1.0-rc.1"
+        "ref": "v0.1.0-rc.2"
       }
     }
   ]
